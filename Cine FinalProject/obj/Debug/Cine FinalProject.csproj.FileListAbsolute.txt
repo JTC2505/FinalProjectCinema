@@ -1,0 +1,27 @@
+C:\Users\PC\Documents\Cine FinalProject\bin\Debug\Cine FinalProject.exe.config
+C:\Users\PC\Documents\Cine FinalProject\bin\Debug\Cine FinalProject.exe
+C:\Users\PC\Documents\Cine FinalProject\bin\Debug\Cine FinalProject.pdb
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine FinalProject.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine_FinalProject.Form1.resources
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine_FinalProject.Properties.Resources.resources
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine FinalProject.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine FinalProject.exe
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine FinalProject.pdb
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine_FinalProject.Asientos.resources
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine_FinalProject.comprobacionPago.resources
+C:\Users\PC\Documents\Cine FinalProject\obj\Debug\Cine_FinalProject.pago.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine FinalProject.csprojAssemblyReference.cache
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.Asientos.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.comprobacionPago.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.Form1.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.pago.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.Properties.Resources.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine FinalProject.csproj.GenerateResource.cache
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine FinalProject.exe
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine FinalProject.pdb
+C:\Users\KAREN\Downloads\Cine FinalProject\obj\Debug\Cine_FinalProject.Form2.resources
+C:\Users\KAREN\Downloads\Cine FinalProject\bin\Debug\Cine FinalProject.exe.config
+C:\Users\KAREN\Downloads\Cine FinalProject\bin\Debug\Cine FinalProject.exe
+C:\Users\KAREN\Downloads\Cine FinalProject\bin\Debug\Cine FinalProject.pdb
